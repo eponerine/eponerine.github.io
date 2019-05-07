@@ -83,7 +83,7 @@ a:hover {
 }
 .cover-content h2 {
   color: #FFFFFF;
-  font-size: 78px;
+  font-size: 55px;
   line-height: 0.9;
   margin: 40px 0;
 }
@@ -102,7 +102,7 @@ header {
   height: 100%;
 }
 header#cover {
-  background: url(/images/intro-cover-small.png);
+  background: url(/images/portugal-chair-large.jpg);
   background-attachment: scroll; 
   background-repeat: no-repeat;
   background-size: cover;
