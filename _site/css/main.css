@@ -434,9 +434,9 @@ section#favorites .row:first-child {
 .mobile-only a:hover {
   color: #EFEFEF;
 }
-@media (max-width: 667px) { 
+@media (max-width: 1024px) { 
   header#cover {
-    background-position: -60px;
+    background-position: 50%;
     margin: 0;
   }
   header#about {
