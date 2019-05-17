@@ -8,8 +8,7 @@
 # Site settings
 title: Ernie & Sara
 description: > # this means to ignore newlines until "baseurl:"
-  Eight years ago in Hinsdale, two teenagers met and fell in love. 
-  Now on September 3, 2016, Scott Cruwys and Allison Skibicki invite you to help celebrate their wedding.
+  Come celebrate with Ernie and Sara on April 28, 2020!
 url: "https://www.eandsadventures.com" # the base hostname & protocol for your site
 baseurl: ""
 absolute_url: "https://www.eandsadventures.com"

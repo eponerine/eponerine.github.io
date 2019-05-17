@@ -142,7 +142,7 @@ section {
   color: #689da4;
   letter-spacing: 0.1em;
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 .site-section > section p {
   margin-bottom: 0;
@@ -187,7 +187,7 @@ section {
   margin: 20px 0;
 }
 #detail-widgets .widget h2,
-.what-to-do h2, .where-to-stay h2 {
+.what-to-do h2, .about-the-resort h2 {
   color: #689da4;
   font-family: 'brandon-grotesque', sans-serif;
   font-size: 16px;
@@ -196,11 +196,10 @@ section {
   text-align: center;
   text-transform: uppercase;
 }
-.where-to-stay, .what-to-do {
-  margin-top: 80px;
+.about-the-resort, .what-to-do {
+  margin-top: 30px;
 }
-.where-to-stay p, .what-to-do p {
-  font-family: 'kepler-std-display', serif, serif;  
+.about-the-resort p, .what-to-do p {
   font-size: 16px;
   font-style: italic;
 }
@@ -219,7 +218,7 @@ section {
   text-align: center;
   text-transform: uppercase;
   word-wrap: break-word;
-  width: 90%;
+  width: 95%;
 }
 .btn-reserve:hover {
   background-color: #689da4;
@@ -464,7 +463,7 @@ section#favorites .row:first-child {
     margin-left: 12.5%;
     width: 75%;
   }
-  .what-to-do, .where-to-stay {
+  .what-to-do, .about-the-resort {
     margin-top: 60px;
     margin-bottom: 20px;
   }
