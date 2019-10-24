@@ -44,7 +44,7 @@ $(function() {
   var $cover = $('header#cover');
   var $about = $('header#about')
 
-  if ( $cover.length > 0 ) setBackgroundImage($cover, '/images/intro-cover-large.png');
-  if ( $about.length > 0 ) setBackgroundImage($about, '/images/about-cover-large.png');
+  //if ( $cover.length > 0 ) setBackgroundImage($cover, '/images/intro-cover-large.png');
+  //if ( $about.length > 0 ) setBackgroundImage($about, '/images/about-cover-large.png');
 
 });

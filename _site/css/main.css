@@ -186,6 +186,12 @@ section {
 .widget-icon.reception {
   background-image: url(/images/widgets/reception.png);
 }
+.widget-icon.dining {
+  background-image: url(/images/widgets/dining.png);
+}
+.widget-icon.info {
+  background-image: url(/images/widgets/info.png);
+}
 #detail-widgets .widget h2 {
   margin: 20px 0;
 }
